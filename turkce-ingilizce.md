@@ -14,7 +14,7 @@ A
 *  ağırlık: weight
 *  ahlaklılaştırma: moralization
 *  akan: running
-*  akıl: yürütme: reasoning
+*  akıl yürütme: reasoning
 * **aktif öğrenme: active learning**
 *  alan: region
 * **algı: perception**
